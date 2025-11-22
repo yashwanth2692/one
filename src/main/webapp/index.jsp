@@ -828,7 +828,8 @@
         <div class="hero-content">
             <h1>This is Yashwanth Collection for winter 2026</h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 50% off selected items</p>
-            <p>This website is designed only for Practising Devops</p>
+            <p>This website is designed only for Practising Devops</p> 
+            <p>This is master and Slave mechanism</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
                 <a href="#" class="btn btn-secondary">Explore Deals</a>
